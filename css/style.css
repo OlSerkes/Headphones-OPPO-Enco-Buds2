@@ -166,21 +166,21 @@ li {
 }
 #oppotwsbuds2 .column-box__bg_01 {
   padding-bottom: 100%;
-  background: url("https://cdn.comfy.ua/media/x/img3/2376651/img02_1.png") top center/cover no-repeat;
+  background: url("../img/img02_1.png") top center/cover no-repeat;
 }
 #oppotwsbuds2 .column-box__bg_02 {
   padding: 0 0 20%;
-  background: url("https://cdn.comfy.ua/media/x/img3/2376651/img02_2.png") top center/cover no-repeat;
+  background: url("../img/img02_2.png") top center/cover no-repeat;
   flex: 0 1 52%;
 }
 #oppotwsbuds2 .column-box__bg_03 {
   padding: 0 0 22%;
-  background: url("https://cdn.comfy.ua/media/x/img3/2376651/img02_3.png") 100% 100%/cover no-repeat;
+  background: url("../img/img02_3.png") 100% 100%/cover no-repeat;
   flex: 0 1 48%;
 }
 #oppotwsbuds2 .column-box__bg_04 {
   padding: 9% 0;
-  background: url("https://cdn.comfy.ua/media/x/img3/2376651/img02_4.png") 75% 100%/cover no-repeat;
+  background: url("../img/img02_4.png") 75% 100%/cover no-repeat;
 }
 #oppotwsbuds2 .column-box__bg_w {
   background: #fff;
@@ -232,7 +232,7 @@ li {
   background-color: #f6f6f6;
 }
 #oppotwsbuds2 .row-box__bg_img01 {
-  background-image: url("https://cdn.comfy.ua/media/x/img3/2376651/img05.jpg");
+  background-image: url("../img/img05.jpg");
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
@@ -366,7 +366,7 @@ li {
   content: "";
   position: absolute;
   z-index: 100;
-  background-image: url("https://cdn.comfy.ua/media/x/img3/2376651/img05_1.png");
+  background-image: url("../img/img05_1.png");
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
@@ -379,7 +379,7 @@ li {
   content: "";
   position: absolute;
   z-index: 100;
-  background-image: url("https://cdn.comfy.ua/media/x/img3/2376651/img05_2.png");
+  background-image: url("../img/img05_2.png");
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
@@ -415,7 +415,7 @@ li {
   content: "";
   position: absolute;
   z-index: 6;
-  background-image: url("https://cdn.comfy.ua/media/x/img3/2376651/img06_2.png");
+  background-image: url("../img/img06_2.png");
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
@@ -493,7 +493,7 @@ li {
 }
 #oppotwsbuds2 .oppotwsbuds2-game__image::before {
   content: "";
-  background-image: url("https://cdn.comfy.ua/media/x/img3/2376651/img09_1.png");
+  background-image: url("../img/img09_1.png");
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
@@ -508,7 +508,7 @@ li {
 }
 #oppotwsbuds2 .oppotwsbuds2-game__image::after {
   content: "";
-  background-image: url("https://cdn.comfy.ua/media/x/img3/2376651/img09_2.png");
+  background-image: url("../img/img09_2.png");
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
@@ -559,7 +559,7 @@ li {
   content: "";
   position: absolute;
   z-index: 7;
-  background-image: url("https://cdn.comfy.ua/media/x/img3/2376651/img12_1.png");
+  background-image: url("../img/img12_1.png");
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
@@ -586,7 +586,7 @@ li {
 }
 #oppotwsbuds2 .oppotwsbuds2-controls__list li {
   color: #fff;
-  background: url("https://cdn.comfy.ua/media/x/img3/2376651/img12_2.png") 0 -10px no-repeat;
+  background: url("../img/img12_2.png") 0 -10px no-repeat;
   padding-left: 100px;
   margin-left: 10px;
   margin-bottom: 45px;
@@ -1008,7 +1008,7 @@ li {
     margin-bottom: 25px;
     margin-left: 0px;
     padding-left: 53px;
-    background: url(https://cdn.comfy.ua/media/x/img3/2376651/img12_2.png) 0 0/40px 55px no-repeat;
+    background: url(../img/img12_2.png) 0 0/40px 55px no-repeat;
   }
   #oppotwsbuds2 .oppotwsbuds2-compact__inner {
     padding-top: 0;
