@@ -1,3 +1,15 @@
+html,
+body {
+  height: 100%;
+  min-width: 320px;
+}
+
+button {
+  cursor: pointer;
+  color: inherit;
+  background-color: inherit;
+}
+
 #oppotwsbuds2 a {
   color: inherit;
   text-decoration: none;
