@@ -1,5 +1,5 @@
 Layout for OPPO Enco Buds2
-This is a solution to the OPPO Enco Buds2 layout.
+This is the solution to the OPPO Enco Buds2 layout.
 
 ## Table of contents
 
@@ -17,12 +17,17 @@ This is a solution to the OPPO Enco Buds2 layout.
 
 Users should be able to:
 
-View the optimal layout for the interface depending on their device's screen size
+- View the optimal layout for the interface depending on their device's screen size
+- The designs were created to the following widths:
+  Mobile: 320px
+  Desktop: 1920px
 
 ### Screenshot
 
+Design desctop preview for the OPPO Enco Buds2
 ![Design desctop preview for the OPPO Buds layout solution](./img/desctop-layout.jpg)
 
+Design mobile preview for the OPPO Enco Buds2
 ![Design mobile preview for the OPPO Buds layout solution](./img/mobile-layout.jpg)
 
 ### Links
