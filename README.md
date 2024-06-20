@@ -37,7 +37,7 @@ Design mobile preview for the OPPO Enco Buds2
 
 ### Built with
 
-- Semantic HTML5 markup
+- HTML5 markup
 - SASS preprocessor
 - Flexbox
 - CSS Grid
